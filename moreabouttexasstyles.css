@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: darkslategrey;
+    background-color: rgb(249, 249, 171);
+}
+li{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal
+}
+a{
+    color: cadetblue
+}
+.title{
+    border: 1px solid black;
+    width: 400px;
+    margin: 20px auto;
+   
+}
+.favthings{
+    background-color: azure;
+    width: 300px;
+}
+.backtotop{
+    background-color: beige;
+    width: 80px
+}
